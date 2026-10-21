@@ -1,0 +1,21 @@
+location,date,new_cases,total_cases,new_deaths,total_deaths
+United States,01-03-2020,100,1000,5,50
+United States,02-03-2020,150,1150,8,58
+United States,03-03-2020,200,1350,12,70
+United States,04-03-2020,250,1600,10,80
+United States,05-03-2020,300,1900,15,95
+India,01-03-2020,20,200,0,10
+India,02-03-2020,30,230,1,11
+India,03-03-2020,45,275,1,12
+India,04-03-2020,60,335,2,14
+India,05-03-2020,80,415,3,17
+Brazil,01-03-2020,50,500,2,25
+Brazil,02-03-2020,70,570,4,29
+Brazil,03-03-2020,90,660,5,34
+Brazil,04-03-2020,120,780,7,41
+Brazil,05-03-2020,160,940,9,50
+United Kingdom,01-03-2020,30,300,1,15
+United Kingdom,02-03-2020,40,340,2,17
+United Kingdom,03-03-2020,55,395,2,19
+United Kingdom,04-03-2020,75,470,4,23
+United Kingdom,05-03-2020,95,565,5,28

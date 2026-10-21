@@ -146,6 +146,7 @@ Project_10/
 │
 ├── COVID19_Data_Analysis.py
 ├── covid_data.csv
+├── covid_data2.csv
 └── README.md
 ```
 

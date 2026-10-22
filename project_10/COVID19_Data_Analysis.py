@@ -148,6 +148,8 @@ class COVID19Data:
             choice = int(input("Enter your choice: "))
             file_path = input("Enter the second CSV file path: ").strip()
             second_data = pd.read_csv(file_path)
+            if "date" in second_data.columns:
+                second_data["date"] = pd.to_datetime(second_data["date"])
             match choice:
                 case 1:
                     result = pd.concat([self.data, second_data], ignore_index=True)
